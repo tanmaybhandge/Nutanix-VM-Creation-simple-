@@ -14,6 +14,7 @@ Pre-requites
 ### Configuration
 
 1. Clone the respository.
+        https://github.com/tanmaybhandge/Nutanix-VM-Creation-simple-.git
 
 2. Update the below value in the ```main.tf``` file to match your Nutanix environment.
 
