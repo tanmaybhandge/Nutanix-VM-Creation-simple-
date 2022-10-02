@@ -26,9 +26,7 @@ Pre-requites
         insecure     = true
         wait_timeout = 10
 
-      In the data block provide the name of the cluster, VLAN information (Subnet) and Image name.
-
-      In resource blick you may configure the Virtual machine as per your requirment
+      In the data block provide the name of the cluster, VLAN information (Subnet) and Image name. In resource block you may configure the Virtual machine as per your requirment
 
           name                 = <Name of the Virtual machine>
           num_vcpus_per_socket = <vCPU per Socket>
